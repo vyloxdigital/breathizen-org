@@ -1,0 +1,12 @@
+{
+  "name": "Breathizen",
+  "short_name": "Breathizen",
+  "description": "Breathizen questions answered: does it work, what is in it, is it safe, what it costs and where to buy it.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f6f8fb",
+  "theme_color": "#f6f8fb",
+  "lang": "en-US",
+  "dir": "ltr"
+}
